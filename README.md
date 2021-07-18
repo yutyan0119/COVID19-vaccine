@@ -1,5 +1,5 @@
 # COVID19-vaccine
-## 1. What this
+## 1. What is this
 東京大学の講義である現代経済理論(2021)の課題で行った新型コロナのワクチン接種に関する分析に使用したMATLABファイルなどをアップロードしてあります。
 githubを使用するのは初めてなので、よくわかりません。
 ## 2. Code Description
